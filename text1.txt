@@ -1,3 +1,4 @@
 Line 1 some text 
+Line 2 changed in b1 edited in merge
 Line 2 changed in main
 Line 3 something else
